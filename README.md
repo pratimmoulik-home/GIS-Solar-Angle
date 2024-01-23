@@ -1,1 +1,1 @@
-Calculate Solar Angles for many geographic points from ArcGIS files by calling the NOAA calculator.
+Calculate Solar Angles for many geographic points from ArcGIS files by calling the NOAA solar angle calculator. NOAA calculator is originally from https://gml.noaa.gov/grad/solcalc/azel.html. I downloaded the HTML file of it. 
